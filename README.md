@@ -1,2 +1,10 @@
 # jicer
-Multiply BTC with https://freebitco.in/?r=4180739 and this bot. 
+Multiply BTC with [Freebitco.in](https://freebitco.in/?r=4180739) and this bot. The use is the responsibility of the owner of your account. The tests work by obtaining satoshis from the same faucet. I have no opinion about investing or not.
+
+# Usage
+1. Get an account and Roll for get some satoshis (>= 1000)
+2. Go to "Multiply BTC" section
+3. Press ```CTRL + SHIFT + I``` for show *develops tools*.
+4. Copy full jicer's code and PAste In **Console** section.
+5. Press ```Return``` and multiply your sotoshis and test your parameters favorites. 
+
