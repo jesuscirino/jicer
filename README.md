@@ -9,3 +9,14 @@ Multiply Satoshis with BTC Faucet and this bot. The use is the responsibility of
 4. Copy full jicer's code and *Paste* In **Console** section.
 5. Press ```Return``` , multiply your sotoshis and test your parameters favorites. 
 
+# Example with Screenshots
+
+[Visit jesuscirino's blog](https://steemit.com/spanish/@jesuscirino/tu-propio-bot-para-faucet-de-bitcoins)
+
+# Contributing
+Would you help make this bot better? Contributions are welcome.
+
+- Feel free to send a pull request
+- Leave me a comment on [steemmit.com](https://steemit.com/@jesuscirino)
+
+Many thanks.
